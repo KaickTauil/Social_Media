@@ -36,6 +36,14 @@ main{
     background-repeat: no-repeat;
 }
 
+#tela{
+    position: relative;
+    top: 80px;
+    left: 22px;
+    height: 471px;
+    width: 269px;
+}
+
 #redes{
     position: absolute;
     top: 50%;
@@ -66,11 +74,5 @@ main{
     border: 2px solid white;
 }
 
-#tela{
-    position: relative;
-    top: 80px;
-    left: 22px;
-    height: 471px;
-    width: 269px;
-}
+
 
